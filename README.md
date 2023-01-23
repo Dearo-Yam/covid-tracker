@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+If 'react-scripts" is not recognized as an internal or external command, type into terminal
+npm install react-scripts --save
+
 ## Available Scripts
 
 In the project directory, you can run:
